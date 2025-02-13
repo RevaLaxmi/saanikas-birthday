@@ -148,7 +148,7 @@ export default function MemoryGame() {
 
       {won ? (
         <div className="win-message">
-          <p>🎉 You won the game!</p>
+          <p>You won the game.. like youve won our hearts</p>
           <p>{"Happy Birthday Saanika!!💗"}</p>
         </div>
       ) : lost ? (
